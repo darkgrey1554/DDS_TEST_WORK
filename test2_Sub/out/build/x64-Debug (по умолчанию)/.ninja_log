@@ -1,0 +1,13 @@
+# ninja log v5
+2	815	651021216	build.ninja	d00ead63e913744
+0	13	0	clean	ba6d4bf3d13fd0e8
+6	1184	651021217	CMakeFiles/DDSHelloWorldSubscriber.dir/HelloWorld.cxx.obj	833708d641a1890
+10	2419	651021218	CMakeFiles/DDSHelloWorldSubscriber.dir/HelloWorldPubSubTypes.cxx.obj	450c8c6b3d78aab
+1	2583	651021218	CMakeFiles/DDSHelloWorldSubscriber.dir/HelloWorldSubscriber.cpp.obj	f1e83b197b560a55
+2589	3057	651021219	DDSHelloWorldSubscriber.exe	21b8f7a07f28268e
+2	832	651021244	build.ninja	d00ead63e913744
+0	12	0	clean	ba6d4bf3d13fd0e8
+5	1157	651021246	CMakeFiles/HelloWorldSubscriber.dir/HelloWorld.cxx.obj	8fabe91e792e072f
+9	2287	651021247	CMakeFiles/HelloWorldSubscriber.dir/HelloWorldPubSubTypes.cxx.obj	e0b95903ed30951c
+0	2499	651021247	CMakeFiles/HelloWorldSubscriber.dir/HelloWorldSubscriber.cpp.obj	bedf58578fe5cf56
+2504	2964	651021247	HelloWorldSubscriber.exe	b0ff33f6517704d9

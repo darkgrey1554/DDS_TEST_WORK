@@ -1,0 +1,8 @@
+# ninja log v5
+1	2936	651020324	CMakeFiles/HelloWorldPublisher.dir/HelloWorldPublisher.cpp.obj	4144092e535d696d
+2	878	651020537	build.ninja	f9b040b7d83958dc
+0	13	0	clean	ba6d4bf3d13fd0e8
+6	1202	651020538	CMakeFiles/HelloWorldPublisher.dir/HelloWorld.cxx.obj	784842ec5f6ed66d
+10	2372	651020540	CMakeFiles/HelloWorldPublisher.dir/HelloWorldPubSubTypes.cxx.obj	1f3de7e04a41a61d
+1	2589	651020540	CMakeFiles/HelloWorldPublisher.dir/HelloWorldPublisher.cpp.obj	4144092e535d696d
+2594	3062	651020540	HelloWorldPublisher.exe	dbf12128e478675c
